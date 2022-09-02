@@ -1,0 +1,3 @@
+LO primero tenemos que definir los umbrales de decision , si po ejemplo tenemos 4 intervalos, definir, los niveles de decision
+el tamaño del escalon es el tamaño del intervallo de decision y en el punto medio de cada nivel de decision
+se encuentra nuestra reconstruccion, 
